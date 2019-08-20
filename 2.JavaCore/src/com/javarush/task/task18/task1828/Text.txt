@@ -1,0 +1,9 @@
+23      weapon                        23.65   3
+24      loh loh                       282.6   12
+25      sex                           111.1   1
+26      book                          7.777   1000
+27      brain2                        1000.99 12
+28      iPhone                        7.800   0
+29      4KTV                          450.00  150 
+31      macbook                       1399.00 12
+32      iMac with retina display      1999.99 150 
