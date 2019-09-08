@@ -8,7 +8,7 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 
-// /Users/daniel/Projects/Java/IDEA/JavaRushTasks/2.JavaCore/src/com/javarush/task/task18/task1828/Text.txt
+// /Users/daniel/Projects/Java/IDEA/JavaRushTasks/2.JavaCore/src/com/javarush/task/task18/task1828/Text.xml
 // -u 32 "iMac with retina display" 1999.99 150
 
 public class Solution {

@@ -12,7 +12,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 //-c "macbook with cool design ever you seen" 1399.00 12
-// /Users/daniel/Projects/Java/IDEA/JavaRushTasks/2.JavaCore/src/com/javarush/task/task18/task1827/Text.txt
+// /Users/daniel/Projects/Java/IDEA/JavaRushTasks/2.JavaCore/src/com/javarush/task/task18/task1827/Text.xml
 
 public class Solution {
 
