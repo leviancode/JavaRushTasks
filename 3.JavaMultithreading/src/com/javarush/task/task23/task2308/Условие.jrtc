@@ -9,8 +9,8 @@ taskKey="com.javarush.task.task23.task2308"\n\nРефакторинг, влож�
 2.	Класс Constants должен быть публичным.
 3.	Класс Constants должен быть объявлен с модификатором, запрещающим наследование от этого класса.
 4.	В классе Constants должна существовать константа SERVER_IS_CURRENTLY_NOT_ACCESSIBLE со значением &quot;The server is not currently accessible.&quot;.
-5.	В классе Constants должна существовать константа USER_IS_NOT_AUTHORIZED со значением &quot;The user is not authorized.&quot;.
-6.	В классе Constants должна существовать константа USER_IS_BANNED со значением &quot;The user is banned.&quot;.
+5.	В классе Constants должна существовать константа USER_IS_NOT_AUTHORIZED со значением &quot;The logEntry is not authorized.&quot;.
+6.	В классе Constants должна существовать константа USER_IS_BANNED со значением &quot;The logEntry is banned.&quot;.
 7.	В классе Constants должна существовать константа ACCESS_IS_DENIED со значением &quot;Access is denied.&quot;.
 
 

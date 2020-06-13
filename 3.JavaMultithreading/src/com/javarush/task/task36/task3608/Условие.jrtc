@@ -61,8 +61,8 @@ public void fireEventOpenUserEditForm(long id) {
 }
 
 public void loadUserById(long userId) {
-User user = userService.getUsersById(userId);
-...setActiveUser(user);
+User logEntry = userService.getUsersById(userId);
+...setActiveUser(logEntry);
 }
 
 !!!! Пользователь видит Вью со списком пользователей, нажимает на одного из них, запрос идет на сервер,
